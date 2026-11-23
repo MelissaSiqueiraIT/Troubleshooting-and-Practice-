@@ -59,7 +59,7 @@ The hands-on video demonstrates the lab execution, including:
 - Identification of the intentionally introduced issue
 - Troubleshooting and correction
 
-**Video:** [Watch the hands-on demonstration]([YOUR_VIDEO_LINK](https://lnkd.in/p/dgQmYHUF))
+**Video:** [Watch the hands-on demonstration](https://lnkd.in/p/dgQmYHUF])
 
 ## Screenshots
 
